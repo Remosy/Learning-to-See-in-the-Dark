@@ -66,3 +66,9 @@ Chen Chen, Qifeng Chen, Jia Xu, and Vladlen Koltun, "Learning to See in the Dark
 
 ### License
 MIT License.
+
+### links:
+https://arxiv.org/pdf/1707.01313.pdf
+Bayer Array
+X-trans
+amplificate
